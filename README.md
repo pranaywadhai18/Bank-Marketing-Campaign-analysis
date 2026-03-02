@@ -204,7 +204,7 @@ pip install pandas numpy matplotlib seaborn
 
 ## 👨‍💻 Author
 
-pranay wadhai
+pranay wadhai  
 Aspiring Data Analyst | Marketing Analytics | Python  
 
 ---
